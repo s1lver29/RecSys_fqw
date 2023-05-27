@@ -1,1 +1,4 @@
 ml-*
+
+src/__pycache__/*
+data/*
